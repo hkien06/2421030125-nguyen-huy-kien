@@ -1,0 +1,5 @@
+print("Xin chao cac ban sv", end=" ")
+print("Khoa CNTT")
+print(230, 250)
+print(230, 250, sep='*')
+print(230, 250, 123, sep='-', end='!')
